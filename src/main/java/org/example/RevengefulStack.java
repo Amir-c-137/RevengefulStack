@@ -1,5 +1,7 @@
 package org.example;
 import java.util.*;
+//test
+
 public class RevengefulStack<T> {
     private LinkedList<T> stack;
     private int capacity;
